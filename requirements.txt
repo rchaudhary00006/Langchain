@@ -1,5 +1,6 @@
 langchain
 langchain-core
+langchain-classic
 
 langchain-openai
 langchain_groq
@@ -20,3 +21,5 @@ numpy
 scikit-learn
 
 streamlit
+
+pydantic
