@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-classic
+langchain-community
 
 langchain-openai
 langchain_groq
@@ -23,3 +24,5 @@ scikit-learn
 streamlit
 
 pydantic
+pypdf
+bs4
