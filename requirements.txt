@@ -26,3 +26,7 @@ streamlit
 pydantic
 pypdf
 bs4
+wikipedia
+chromadb
+faiss-cpu
+tiktoken
